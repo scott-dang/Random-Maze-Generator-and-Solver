@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\scott\Desktop\Temp\MazeProject\build\CMakeFiles\7064853a29e4327f216e0162cab72842\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\scott\Desktop\Temp\MazeProject\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\scott\Desktop\Temp\MazeProject\build\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{80A05E50-ECF9-3EF1-BC0C-3AA12E1D9995}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

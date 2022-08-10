@@ -1,0 +1,5 @@
+﻿  MazeProject.cpp
+C:\Users\scott\Desktop\Temp\Maze-Generator-and-Solver\MazeProject.cpp(314,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+MazeProject.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  MazeProject.vcxproj -> C:\Users\scott\Desktop\Temp\Maze-Generator-and-Solver\x64\Debug\MazeProject.exe
