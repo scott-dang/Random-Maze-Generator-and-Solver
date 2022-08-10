@@ -1,4 +1,4 @@
-# Maze-Generator-and-Solver
+# Random-Maze-Generator-and-Solver
 
 # Setup
 To run the program without any modifications, simply go into x64/debug/ and run MazeProject.exe
